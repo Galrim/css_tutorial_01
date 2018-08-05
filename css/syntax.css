@@ -13,12 +13,7 @@ p {
     color: blue;
 }
 
-#header p {
-    font-size: 24px;
-}
-
-/* Style all header tags */
-
-h1 {
-    font-size: 44px;
+a {
+    text-decoration: underline;
+    color: red;
 }
