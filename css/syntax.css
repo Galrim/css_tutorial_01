@@ -5,10 +5,9 @@
 *
 *********************************/
 
-p {
+p, a, span, li {
     color: red;
-}
-
-#main-content p {
-    color: green;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
 }
