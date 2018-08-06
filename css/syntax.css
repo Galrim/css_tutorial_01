@@ -1,12 +1,12 @@
 /*******************************
 *
 * Author: galrim
-* Date: 5.08.2018
+* Date: 6.08.2018
 *
 *****************************/
 
 .box{
     margin: 30px;
-    padding: 30px;
+    padding: 30px 20%;
     border: 1px solid #000;
 }
