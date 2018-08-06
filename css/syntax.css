@@ -5,11 +5,9 @@
 *
 *****************************/
 
-p{
-    font-family: Arial;
-    font-weight: 500;
-}
+a{
+    color:crimson;
+    text-decoration: none;
+    font-weight: bold;
 
-p:first-of-type {
-    font-family: "Century Schoolbook L"
 }
