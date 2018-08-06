@@ -5,18 +5,14 @@
 *
 *********************************/
 
-body {
+#main-content {
     color: red;
 }
 
-div {
-    color: blue;
-}
-
 p {
-    color:green;
+    color: black;
 }
 
-a {
-    color:darkcyan;
+.horse p {
+    color: green;
 }
