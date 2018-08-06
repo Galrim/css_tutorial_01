@@ -5,15 +5,14 @@
 *
 *********************************/
 
+body {
+    color: red;
+}
 
-/* Style all p tags */
-
-p {
-    font-size: 18px;
+div {
     color: blue;
 }
 
-a {
-    text-decoration: underline;
-    color: red;
+p {
+    color:green;
 }
