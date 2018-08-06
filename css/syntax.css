@@ -5,6 +5,11 @@
 *
 *****************************/
 
-article h2, article p{
-    font-family: totallyAwsomeFont, ham, serif;
+p{
+    font-family: Arial;
+    font-weight: 500;
+}
+
+p:first-of-type {
+    font-family: "Century Schoolbook L"
 }
