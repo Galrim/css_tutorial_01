@@ -5,10 +5,9 @@
 *
 *****************************/
 
-.staticWidth{
-    width: 300px;
+#banner{
+    background-color: rgb(255,0,0);
+    width: 100%;
     height: 300px;
-    background: url(https://cdn.galleries.smcloud.net/t/galleries/gf-Feak-QCzC-J27Q_nicolas-cage-664x0-nocrop.jpg) no-repeat top center;
-    background-size: cover;
 }
 
