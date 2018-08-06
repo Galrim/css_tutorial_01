@@ -5,6 +5,8 @@
 *
 *****************************/
 
-p:nth-child(4n + 1){
-    background: pink;
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
 }
