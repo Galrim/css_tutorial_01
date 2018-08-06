@@ -5,14 +5,10 @@
 *
 *********************************/
 
-#main-content {
+p {
     color: red;
 }
 
-p {
-    color: black;
-}
-
-.horse p {
+#main-content p {
     color: green;
 }
