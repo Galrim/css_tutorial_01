@@ -5,8 +5,6 @@
 *
 *****************************/
 
-*{
-    margin: 0;
-    padding: 0;
-    color: black;
+article h2, article p{
+    font-family: totallyAwsomeFont, ham, serif;
 }
