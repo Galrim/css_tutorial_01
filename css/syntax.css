@@ -3,16 +3,12 @@
 * Author: galrim
 * Date: 5.08.2018
 *
-*********************************/
+*****************************/
 
-a:hover {
+article p:first-child {
+    font-weight: bold;
+}
+
+article p:last-child {
     color: red;
-}
-
-a:active{
-    color:orange;
-}
-
-a:visited{
-    color: yellowgreen;
 }
