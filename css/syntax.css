@@ -5,6 +5,6 @@
 *
 *********************************/
 
-#all-articles h2 + p {
-    color: green;
+span[class]{
+    color: purple;
 }
