@@ -32,3 +32,10 @@
     box-shadow: 1px 1px 2px 1px rgba(20,20,20,0.8);
 }
 
+.banner:active{
+    background: rgb(200,180,0);
+    background: -moz-linear-gradient(bottom, rgb(200,50,0) 0%, rgb(200,180,0) 100%);
+    background: -webkit-linear-gradient(bottom, rgb(200,50,0) 0%, rgb(200,180,0) 100%);
+    background: linear-gradient(bottom, #aadddd 0%, #77aaaa 100%);
+    box-shadow: 1px 1px 2px 1px rgba(20,20,20,0.8);
+}
